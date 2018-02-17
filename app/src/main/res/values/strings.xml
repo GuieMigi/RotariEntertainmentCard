@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rotari Entertainment Card</string>
+    <string name="companyPhoneNumber">+40 742.538.602</string>
+    <string name="companyEmailAddress">stefan@rotarientertainment.ro</string>
+    <string name="companyWebpage">www.rotarientertainment.ro</string>
+    <string name="companyDescription">The place for your favourite Stand Up Comedy Shows and Theater Plays</string>
+    <string name="rotariEntertainmentLogoDescription">Rotari Entertainment Company Logo</string>
+    <string name="microphoneImageDescription">The image of a proffesional stage microphone</string>
+</resources>
